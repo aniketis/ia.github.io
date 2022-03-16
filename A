@@ -1,0 +1,50 @@
+
+<HTML>
+<head><title> if u delete this file then you are ...........</title></head>
+<body background="C:\Users\gss\Desktop\B.png">
+<P ALIGN="CENTER">
+I AM STUDENT</P>
+<H2>I AM GOING.</H2>
+<H3>A</H3>
+<H4>B</H4>
+<H5>C</H5>
+<H6>D</H6>
+<B><I><U>I AM WATCHING</U></I></B>
+<P>
+a<SUB>2</SUB>+2ab
+</P>
+<P>
+H<SUP>2</SUP>O
+</P>
+<SMALL>I AM</SMALL><BIG> KING</KING>
+<MARQUEE BGCOLOR="RED" BEHAVIOR="SLIDE" DIRECTION="RIGHT" SCROLLDELAY="10">I AM GETTING LATE FOR ENGLISH CLASS.</MARQUEE>
+<TABLE BGCOLOR="GOLD" WIDTH="100 PX" HIGHT="200 PX" BORDER="20 PX"
+<TR>
+<TD>CLASS</TD><TD>BOYS</TD><TD>GIRLS</TD>
+</TR>
+<TR>
+<TD>A</TD><TD>40</TD><TD>30</TD>
+</TR>
+<TR>
+<TD>B</TD><TD>29</TD><TD>30</TD>
+</TR>
+</TABLE>
+<H1>FRIENDS</H1>
+<FONT COLOR="RED" SIZE="32">
+<OL TYPE="1" >
+<LI>ANIKET</LI>
+<LI>BAIBHAV</LI>
+<LI>RAUNAK</LI>
+</ol>	
+</FONT>
+<H1>SUBJECT</H1>
+<UL TYPE="DISC" >
+<FONT COLOR="RED" SIZE="32">
+<LI>MATH</LI>
+<LI>O.MATH</LI>
+<LI>COMPUTER</LI>
+</FONT>
+</UL>
+<IMG SRC ="â€ª C:\Users\gss\Desktop\G.png" align="top" border="100 px" height ="100 px" width="100px">
+</BODY>
+</HTML>
